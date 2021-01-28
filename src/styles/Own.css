@@ -1,0 +1,41 @@
+.container {
+    margin: auto;
+    margin-top: 10px;
+    width: 46%;
+    border: 1px solid grey;
+    border-radius: 2px;
+    margin-bottom: 40px;
+}
+
+.product-brand {
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px
+}
+  
+.brand {
+    color: gray;
+    text-align: left;
+    margin-bottom: 1%;
+}
+  
+h3 {
+    width: 50%;
+    text-align: left;
+    margin-top: 1%;
+}
+
+.content {
+    margin-top: 0px;
+    border-top: 1px solid lightgray;
+    margin-left: 40px;
+    margin-right: 40px
+}
+  
+.info-text {
+    align-items: center;
+}
+
+.picture {
+    margin-top: 20px;
+}

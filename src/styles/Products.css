@@ -1,0 +1,62 @@
+.container {
+    margin: auto;
+    margin-top: 10px;
+    width: 46%;
+    border: 1px solid grey;
+    border-radius: 2px;
+    margin-bottom: 40px;
+}
+
+.product-brand {
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px
+}
+
+.brand {
+    color: gray;
+    text-align: left;
+    margin-bottom: 1%;
+}
+
+h3 {
+    width: 50%;
+    text-align: left;
+    margin-top: 1%;
+}
+
+.content {
+    margin-top: 0px;
+    border-top: 1px solid lightgray;
+    margin-left: 40px;
+    margin-right: 40px
+}
+
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    display: inline-block;
+    border-radius: 50px;
+}
+
+.colors {
+    text-align: left;
+    margin: 40px;
+    justify-content: space-between;
+}
+
+
+.price {
+    color: black;
+    text-align: left;
+    margin-left: 40px; 
+}
+
+button {
+    margin-top: 30px;
+}
+
+.picture {
+    margin-top: 20px;
+}

@@ -1,0 +1,12 @@
+.main-nav {
+    background-color: lightskyblue;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+}

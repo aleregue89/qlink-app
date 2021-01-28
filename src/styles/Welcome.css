@@ -1,0 +1,35 @@
+.shop-welcome-container {
+    margin: auto;
+    margin-top: 10px;
+    width: 96%;
+    border: 1px solid grey;
+    border-radius: 2px;
+}
+  
+  h6 {
+    width: 50%;
+    text-align: left;
+    margin-left: 40px;
+}
+
+.welcome-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-top: 20px;
+}
+  
+  .welcome-content {
+    padding-left: 50px;
+}
+  
+.mr-3 {
+  align-self: flex-start;
+  
+  margin-bottom: 50px;
+}
+
+.text1 {
+align-self: center;
+font-size: 10px;
+}
