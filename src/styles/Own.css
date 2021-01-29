@@ -1,4 +1,4 @@
-.container {
+/*.container {
     margin: auto;
     margin-top: 10px;
     width: 46%;
@@ -38,4 +38,22 @@ h3 {
 
 .picture {
     margin-top: 20px;
+}*/
+
+.btn-action {
+    background-color: dodgerblue;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    margin-bottom: 20px;
+}
+
+.text-own {
+    width: 90%;
+    text-align: left;
+    margin-top: 1%;
 }

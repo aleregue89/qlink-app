@@ -14,14 +14,14 @@ const Own = () => {
             />
             <div className="product-brand">
                 <p className="brand">QLink</p>
-                <h3>Bring your own phone</h3>
+                <h3 className="text-own">Bring your own phone</h3>
             </div>
             <div className="content">
                 <div className="info-text">
                     <p>Get unlimited Minutes and Data for x months when you bring your exisitng eligible phone to Q Link Wireless...</p>
                 </div>
-                <Button variant="primary" size="lg" block>
-                    Block level button
+                <Button className="btn-action" variant="primary" size="lg" block>
+                    Bring your own phone
                 </Button>
             </div>
             

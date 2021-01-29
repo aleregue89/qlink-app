@@ -1,9 +1,16 @@
 .shop-welcome-container {
-    margin: auto;
-    margin-top: 10px;
-    width: 96%;
+    /*margin: auto;*/
+    /*margin-top: 10px;
+    width: 96%;*/
     border: 1px solid grey;
     border-radius: 2px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 60%;
+    background-color: white;
 }
   
   h6 {

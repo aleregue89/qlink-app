@@ -1,10 +1,12 @@
 .container {
-    margin: auto;
+    /*margin: auto;*/
     margin-top: 10px;
     width: 46%;
     border: 1px solid grey;
     border-radius: 2px;
     margin-bottom: 40px;
+    flex: 0 0 33%;
+    background-color: white;
 }
 
 .product-brand {
@@ -29,7 +31,7 @@ h3 {
     margin-top: 0px;
     border-top: 1px solid lightgray;
     margin-left: 40px;
-    margin-right: 40px
+    margin-right: 40px;
 }
 
 .dot {
@@ -46,17 +48,23 @@ h3 {
     justify-content: space-between;
 }
 
-
 .price {
     color: black;
     text-align: left;
     margin-left: 40px; 
 }
 
-button {
-    margin-top: 30px;
-}
-
 .picture {
     margin-top: 20px;
+}
+
+.btn-action-products {
+    background-color: white;
+    border: 1px solid dodgerblue;
+    color: dodgerblue;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
 }

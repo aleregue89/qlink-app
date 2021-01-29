@@ -5,7 +5,9 @@ import Welcome from './Welcome'
 //import Products from './Products'
 import ProductsContainer from './ProductsContainer'
 
-const Shop = () => {
+
+const Shop = (props) => {
+
     return (
         <div className="home">
             <div className="home-header">
