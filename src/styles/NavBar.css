@@ -1,0 +1,26 @@
+.NavBar-options {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: wrap;
+  margin: 0 auto;
+  width: 40%;
+}
+
+.menu-items {
+  background-color: white;
+  border: none;
+  
+}
+
+.menu {
+  align-content: space-between;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+.login {
+  font-size: 15px;
+  
+}
