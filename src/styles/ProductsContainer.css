@@ -1,9 +1,11 @@
+
 .products-container {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: wrap;
+    justify-content: flex-start;
     margin: 0 auto;
-    width: 60%;
-
+    width: 62%;
+    /* border: 1px solid red; */
 }
+

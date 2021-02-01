@@ -6,3 +6,9 @@
 .home {
     background-color: whitesmoke;
 }
+
+.shop-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}

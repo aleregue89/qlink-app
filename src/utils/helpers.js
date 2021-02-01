@@ -1,5 +1,5 @@
 // fetching data from the API using axios library
-
+import {getInitialData} from './helpers'
 import axios from 'axios'
 
 // get request
@@ -19,6 +19,11 @@ import axios from 'axios'
     // always executed
   }); */
 
+
+
+
+
+/*
 const fetchApiData = () => {
     return axios.get('http://localhost:5628/products')
         .then(res => {
@@ -31,4 +36,5 @@ const fetchApiData = () => {
 
 }
 
-export default fetchApiData
+export default fetchApiData*/
+s

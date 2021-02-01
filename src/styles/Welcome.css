@@ -2,18 +2,18 @@
     /*margin: auto;*/
     /*margin-top: 10px;
     width: 96%;*/
-    border: 1px solid grey;
-    border-radius: 2px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: flex-start;
     margin: 0 auto;
     width: 60%;
     background-color: white;
 }
   
-  h6 {
+  h1 {
     width: 50%;
     text-align: left;
     margin-left: 40px;
@@ -22,21 +22,26 @@
 .welcome-content {
     display: flex;
     flex-direction: row;
-    justify-content: flex-start;
+    justify-content: center;
     margin-top: 20px;
+    align-items: center;
 }
-  
-  .welcome-content {
-    padding-left: 50px;
-}
-  
+   
+/*
 .mr-3 {
   align-self: flex-start;
   
   margin-bottom: 50px;
 }
+*/
 
 .text1 {
-align-self: center;
+text-align: left;
 font-size: 10px;
+color: gray
+}
+
+.welcome-text {
+  padding: 20px;
+  width: 60%;
 }
