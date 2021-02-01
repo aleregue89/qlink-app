@@ -21,9 +21,6 @@ const Own = () => {
                         <p style={{fontSize: "10px", color: "grey"}}>Get unlimited Minutes and Data for x months when you bring your exisitng eligible phone to Q Link Wireless...</p>
                     </div>
 
-                    {/* <Button className="btn-action" variant="primary" size="lg" block>
-                        Bring your own phone
-                    </Button> */}
                 </div>
 
                 <Button className="btn-action-products" variant="primary" size="md" block style={{backgroundColor: "white", color: "dodgerblue", fontSize: "10px", 
